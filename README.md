@@ -40,6 +40,7 @@ If you are an user and want to import vulns, you don't have to use the script. H
 
 ## Selenium script
 + Right now, the loop is executed 118 times since there are exactly 118 vulnerabilities in the spreadsheet. Again, if there are future changes to the spreadsheet, I will make the script compatible. More languages are going to be added with time (pull request them =D )
++ This method of automatic merging works because, while the ordering in the "Vulnerabilities" view is alphabetical, the ordering in the merge pop-up is not alphabetical.
 
 
 
